@@ -25,10 +25,17 @@ Berikut adalah urutan pembelajaran praktikum selama satu semester (minus Kontrak
 *   **[Modul 06 - Evaluasi Model II](modul-06-evaluasi-model-ii.md)**: Validasi mendalam dengan *ROC-AUC*, *Cross-Validation*, dan penanganan data tidak seimbang (*SMOTE*).
 *   **[Modul 07 - Studi Kasus Bisnis](modul-07-studi-kasus-churn.md)**: Proyek praktis *Customer Churn Prediction*.
 
-### Fase 2: Smart Agriculture & Cloud ML
-*   **[Modul 09 - Arsitektur Smart Agriculture](modul-09-smart-ag-pipeline.md)**: Pengolahan data sensor IoT dan *Data Pipeline* di Google Colab.
-*   **[Modul 10 - Analisis Spasial & Time-Series](modul-10-spasial-timeseries.md)**: Prediksi hasil panen dan pola musiman di pertanian.
-*   **[Modul 11 - Cloud ML Basics](modul-11-cloud-ml-basics.md)**: Cara menyimpan (*Save*) dan memuat (*Load*) model ML menggunakan *Joblib*.
+### Fase 2: Pilihan Topik Peminatan (Pilih Salah Satu)
+
+#### A. Smart Agriculture
+*   **[Modul 09 (Smart Ag) - Arsitektur & Data Pipeline](modul-09-smart-ag-pipeline.md)**: Pengolahan data sensor IoT di Google Colab.
+*   **[Modul 10 (Smart Ag) - Analisis Spasial & Time-Series](modul-10-spasial-timeseries.md)**: Prediksi hasil panen dan pola musiman.
+*   **[Modul 11 (Smart Ag) - Cloud ML Basics](modul-11-cloud-ml-basics.md)**: Model Persistence (Save/Load) berbasis cloud.
+
+#### B. Business Intelligence (BI)
+*   **[Modul 09 (BI) - Arsitektur BI & ETL Dasar](modul-09-bi-etl.md)**: Pipeline pembersihan data bisnis secara otomatis.
+*   **[Modul 10 (BI) - Analisis Prediktif & Forecasting](modul-10-bi-forecasting.md)**: Memprediksi penjualan berdasarkan tren historis.
+*   **[Modul 11 (BI) - Business Dashboard](modul-10-bi-dashboard.md)**: Visualisasi insight bisnis secara interaktif dengan Streamlit.
 
 ### Fase 3: Deployment & Multimodal AI
 *   **[Modul 12 - Arsitektur Aplikasi Cerdas](modul-12-api-basics.md)**: Dasar REST API dan format data JSON untuk Machine Learning.
