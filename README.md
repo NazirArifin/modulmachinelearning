@@ -35,7 +35,7 @@ Berikut adalah urutan pembelajaran praktikum selama satu semester (minus Kontrak
 #### B. Business Intelligence (BI)
 *   **[Modul 09 (BI) - Arsitektur BI & ETL Dasar](modul-09-bi-etl.md)**: Pipeline pembersihan data bisnis secara otomatis.
 *   **[Modul 10 (BI) - Analisis Prediktif & Forecasting](modul-10-bi-forecasting.md)**: Memprediksi penjualan berdasarkan tren historis.
-*   **[Modul 11 (BI) - Business Dashboard](modul-10-bi-dashboard.md)**: Visualisasi insight bisnis secara interaktif dengan Streamlit.
+*   **[Modul 11 (BI) - Business Dashboard](modul-11-bi-dashboard.md)**: Visualisasi insight bisnis secara interaktif dengan Streamlit.
 
 ### Fase 3: Deployment & Multimodal AI
 *   **[Modul 12 - Arsitektur Aplikasi Cerdas](modul-12-api-basics.md)**: Dasar REST API dan format data JSON untuk Machine Learning.
